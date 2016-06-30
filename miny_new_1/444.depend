@@ -1,0 +1,331 @@
+# depslib dependency file v1.0
+1466096473 source:/home/mosarvit/Documents/1333/444/main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<errno.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<list>
+	<iomanip>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	"Timer.h"
+	"Replay.h"
+	"common.h"
+	"Field.h"
+	"scores.h"
+	"Minecounter.h"
+
+1466081434 /home/mosarvit/Documents/1333/444/Square.h
+
+1460053427 /home/mosarvit/Documents/1333/444/Timer.h
+	<stdlib.h>
+	<sys/time.h>
+
+1460053427 /home/mosarvit/Documents/1333/444/Replay.h
+	<list>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1465594948 /home/mosarvit/Documents/1333/444/common.h
+	<vector>
+
+1466095946 /home/mosarvit/Documents/1333/444/Field.h
+	<vector>
+	"Square.h"
+	"Minecounter.h"
+
+1465508456 /home/mosarvit/Documents/1333/444/scores.h
+	<time.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<sstream>
+	<algorithm>
+
+1466096894 source:/home/mosarvit/Documents/1333/444/Field.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	<stdio.h>
+	<vector>
+	"common.h"
+	"Field.h"
+	"Timer.h"
+	"Replay.h"
+
+1466095985 source:/home/mosarvit/Documents/1333/444/Replay.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"common.h"
+	"Timer.h"
+	"Replay.h"
+	"Field.h"
+
+1460053427 source:/home/mosarvit/Documents/1333/444/scores.cpp
+	"common.h"
+	"scores.h"
+
+1465492685 source:/home/mosarvit/Documents/1333/444/square.cpp
+	"square.h"
+
+1465492685 /home/mosarvit/Documents/1333/444/square.h
+
+1460053427 source:/home/mosarvit/Documents/1333/444/Timer.cpp
+	"Timer.h"
+	"common.h"
+
+1466083393 /home/mosarvit/Documents/1333/444/include/Spiel.h
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<errno.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<list>
+	<iomanip>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Spiel.h"
+	"Square.h"
+	"Timer.h"
+	"Replay.h"
+	"common.h"
+	"Field.h"
+	"scores.h"
+
+1466083051 source:/home/mosarvit/Documents/1333/444/src/Spiel.cpp
+	"Spiel.h"
+
+1466081434 /home/mosarvit/Documents/1333/444/include/Square.h
+
+1460053427 /home/mosarvit/Documents/1333/444/include/Timer.h
+	<stdlib.h>
+	<sys/time.h>
+
+1460053427 /home/mosarvit/Documents/1333/444/include/Replay.h
+	<list>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1465594948 /home/mosarvit/Documents/1333/444/include/common.h
+	<vector>
+
+1466083030 /home/mosarvit/Documents/1333/444/include/Field.h
+	<vector>
+	"Square.h"
+	"Spiel.h"
+
+1465508456 /home/mosarvit/Documents/1333/444/include/scores.h
+	<time.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<sstream>
+	<algorithm>
+
+1466095849 /home/mosarvit/Documents/1333/444/Minecounter.h
+
+1466095959 source:/home/mosarvit/Documents/1333/444/Minecounter.cpp
+	"Minecounter.h"
+
+1466610374 source:/home/mosarvit/Documents/1333/444_1/Field.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	<stdio.h>
+	<vector>
+	"common.h"
+	"Field.h"
+	"Timer.h"
+	"Replay.h"
+
+1466610345 /home/mosarvit/Documents/1333/444_1/Square.h
+
+1465594948 /home/mosarvit/Documents/1333/444_1/common.h
+	<vector>
+
+1466609684 /home/mosarvit/Documents/1333/444_1/Field.h
+	<vector>
+	"Square.h"
+	"Minecounter.h"
+
+1466095849 /home/mosarvit/Documents/1333/444_1/Minecounter.h
+
+1460053427 /home/mosarvit/Documents/1333/444_1/Timer.h
+	<stdlib.h>
+	<sys/time.h>
+
+1460053427 /home/mosarvit/Documents/1333/444_1/Replay.h
+	<list>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1466095985 source:/home/mosarvit/Documents/1333/444_1/Replay.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"common.h"
+	"Timer.h"
+	"Replay.h"
+	"Field.h"
+
+1460053427 source:/home/mosarvit/Documents/1333/444_1/scores.cpp
+	"common.h"
+	"scores.h"
+
+1465508456 /home/mosarvit/Documents/1333/444_1/scores.h
+	<time.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<sstream>
+	<algorithm>
+
+1460053427 source:/home/mosarvit/Documents/1333/444_1/Timer.cpp
+	"Timer.h"
+	"common.h"
+
+1466610486 source:/home/mosarvit/Documents/1333/444_1/main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<errno.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<list>
+	<iomanip>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	"Timer.h"
+	"Replay.h"
+	"common.h"
+	"Field.h"
+	"scores.h"
+	"Minecounter.h"
+
+1466095959 source:/home/mosarvit/Documents/1333/444_1/Minecounter.cpp
+	"Minecounter.h"
+
+1467305905 source:/home/mosarvit/Documents/1333/miny_new_1/Field.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	<stdio.h>
+	<vector>
+	"common.h"
+	"Field.h"
+	"Timer.h"
+	"Replay.h"
+
+1466610345 /home/mosarvit/Documents/1333/miny_new_1/Square.h
+
+1465594948 /home/mosarvit/Documents/1333/miny_new_1/common.h
+	<vector>
+
+1467305856 /home/mosarvit/Documents/1333/miny_new_1/Field.h
+	<vector>
+	"Square.h"
+	"Minecounter.h"
+
+1466095849 /home/mosarvit/Documents/1333/miny_new_1/Minecounter.h
+
+1460053427 /home/mosarvit/Documents/1333/miny_new_1/Timer.h
+	<stdlib.h>
+	<sys/time.h>
+
+1460053427 /home/mosarvit/Documents/1333/miny_new_1/Replay.h
+	<list>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1466095959 source:/home/mosarvit/Documents/1333/miny_new_1/Minecounter.cpp
+	"Minecounter.h"
+
+1466095985 source:/home/mosarvit/Documents/1333/miny_new_1/Replay.cpp
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"common.h"
+	"Timer.h"
+	"Replay.h"
+	"Field.h"
+
+1460053427 source:/home/mosarvit/Documents/1333/miny_new_1/scores.cpp
+	"common.h"
+	"scores.h"
+
+1465508456 /home/mosarvit/Documents/1333/miny_new_1/scores.h
+	<time.h>
+	<fstream>
+	<iostream>
+	<string.h>
+	<iomanip>
+	<sstream>
+	<algorithm>
+
+1460053427 source:/home/mosarvit/Documents/1333/miny_new_1/Timer.cpp
+	"Timer.h"
+	"common.h"
+
+1467305822 source:/home/mosarvit/Documents/1333/miny_new_1/main.cpp
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<errno.h>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<list>
+	<iomanip>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Square.h"
+	"Timer.h"
+	"Replay.h"
+	"common.h"
+	"Field.h"
+	"scores.h"
+	"Minecounter.h"
+
